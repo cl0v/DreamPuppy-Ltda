@@ -15,6 +15,7 @@
  - Hospedagem de imagens: Cloudflare Images CDN (API)
  - Hospedagem do Cluster K8s: DigitalOcean
  - O Banco de Dados (PostgresSQL) do Cluster que alimentava o App Mobile foi armazenado no Cluster até ter a necessidade de ter um Site para aproveitar os benefícios do SEO, como descrito na linha do tempo a seguir.
+ - Organização de documentos internos: Notion e Google Docs
 
 
 # Linha do Tempo
