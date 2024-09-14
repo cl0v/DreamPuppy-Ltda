@@ -1,0 +1,54 @@
+# Várias opções de config no link [https://github.com/invertase/melos/issues/142]
+
+name: gallery
+
+packages:
+  - packages/*
+
+
+scripts:
+  clearIOS:
+    run:  cd ios/ && rm -rf Podfile.lock Pods .symlinks && cd ../
+  
+  clearAll:
+    run: flutter clean && rm pubspec.lock && flutter pub cache repair && melos run clearIOS && flutter pub get
+
+  fixIOS:
+    run: cd ios/ && pod cache clean --all && pod repo update && pod install
+
+  fixAndroid:
+    run: cd android/ && ./gradlew clean
+
+  fixAll:
+    run: melos run fixIOS && melos run fixAndroid
+
+  upgrade:
+    run: flutter channel stable && flutter upgrade --force
+
+  build_runner:
+    run: dart run build_runner build --delete-conflicting-outputs
+
+  configure:
+    run: melos run clearAll && melos run fixAll && melos run upgrade && flutter pub get
+
+  watch:
+    run: dart run build_runner watch --delete-conflicting-outputs
+
+  build:
+    run: dart run build_runner build --delete-conflicting-outputs
+  
+  intbuild:
+    run: flutter build ios --debug --simulator
+
+  intconfig:
+    run: xcrun simctl install Booted build/ios/iphonesimulator/Runner.app
+  
+  intclean:
+    run: xcrun simctl uninstall Booted com.dreampuppy.gallery
+  
+  inttest:
+    run: maestro test maestro/flow.yaml
+
+  intflow:
+    run: melos run intbuild && melos run intconfig && melos run inttest && melos run intclean
+  
