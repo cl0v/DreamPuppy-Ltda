@@ -1,0 +1,5 @@
+*.db
+__pycache__/
+.env
+app/feat/.DS_Store
+lib/*

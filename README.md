@@ -30,7 +30,7 @@ Flutter (Nov/23) -> FastAPI (Dez/23) -> Docker (Dez/23) -> Kubernetes (Jan/24) -
     - Não cheguei a parte de adicionar uma autenticação funcional pois estava planejando essa etapa para uma próxima versão do App, em que o usuário precisaria ter cadastro para poder entrar em contato com o canil responsável pelo filhote de interesse.
     - Estive estudando formas diversas de autenticação, mas a necessidade de um Site veio antes da obrigação de cadastro. Até pelo fato de que um App ainda não validado pode gerar um pouco de desconfiança da parte dos usuários ao solicitar dados sensíveis como e-mail, senha, CPF, etc...
     - As abordagens estudadas e esboçadas foram o OAuth 2.0, Google Sign-in e Apple Sign-in.
-+ [x] *PostgresSQL e Alchemy*
++ [x] *PostgresSQL e Alembic*
     - Escolhi como banco de dados principal o Postgres por ter uma familiaridade com MySQL. Na época, após algumas pesquisas, percebi que o Postgres estava em ascenção na comunidade, se tornando mais atrativo para os objetivos do projeto a longo prazo.
 
 #### Notas:
