@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Macho",
+        "inStock": true,
+        "query": "male"
+    },
+    {
+        "name": "Fêmea",
+        "inStock": true,
+        "query": "female"
+    }
+]

@@ -1,0 +1,365 @@
+[
+    {
+        "name": "PitMonster",
+        "uuid": "pitmonster",
+        "price": 3000,
+        "imageUrl": "/images/dogs/pitmonster.webp",
+        "imageAlt": "Um amigável PitMonster."
+    },
+    {
+        "name": "Cane Corso",
+        "uuid": "cane_corso",
+        "price": 2800,
+        "imageUrl": "images/dogs/cane_corso.jpg",
+        "imageAlt": "Um bravo Cane Corso."
+        
+    },
+    {
+        "name": "Husky Siberiano",
+        "uuid": "husky_siberiano",
+        "price": 12000,
+        "imageUrl": "/images/dogs/husky_siberiano.jpg",
+        "imageAlt": "Um aventureiro Husky Siberiano."
+    },
+    {
+        "name": "Yorkshire Terrier",
+        "uuid": "yorkshire_terrier",
+        "price": 2800,
+        "imageUrl": "/images/dogs/yorkshire_terrier.webp",
+        "imageAlt": "Um pequeno Yorkshire Terrier."
+    },
+    {
+        "name": "Pug",
+        "uuid": "pug",
+        "price": 3800,
+        "imageUrl": "/images/dogs/pug.jpg",
+        "imageAlt": "Um engraçado Pug."
+    },
+    {
+        "name": "Lulu da Pomerânia e Spitz Alemão",
+        "uuid": "spitz_alemao",
+        "price": 45000,
+        "imageUrl": "/images/dogs/spitz_alemao.webp",
+        "imageAlt": "Lulu da Pomerânia."
+    },
+    
+    {
+        "name": "Akita Inu",
+        "uuid": "akita_inu",
+        "price": 3000,
+        "imageUrl": "images/dogs/akita.webp",
+        "imageAlt": "Um fofo filhote de Akita Inu."
+    },
+    {
+        "name": "Labrador",
+        "uuid": "labrador",
+        "price": 14000,
+        "imageUrl": "/images/dogs/labrador.jpg",
+        "imageAlt": "Um alegre Labrador Retriever."
+    },
+    {
+        "name": "Bernese Mountain Dog",
+        "uuid": "bernese_mountain_dog",
+        "price": 12000,
+        "imageUrl": "images/dogs/bernese_mountain_dog.jpg",
+        "imageAlt": "Um fofinho Bernese Mountain Dog."
+    },
+    {
+        "name": "Saint Bernard",
+        "uuid": "saint_bernard",
+        "price": 17000,
+        "imageUrl": "/images/dogs/saint_bernard.jpg",
+        "imageAlt": "Um amigável Saint Bernard."
+    },
+    {
+        "name": "Mastim Napolitano",
+        "uuid": "mastim_napolitano",
+        "price": 19000,
+        "imageUrl": "/images/dogs/mastim_napolitano.avif",
+        "imageAlt": "Um majestoso Mastim Napolitano."
+    },
+    {
+        "name": "Pastor Australiano",
+        "uuid": "pastor_australiano",
+        "price": 10000,
+        "imageUrl": "/images/dogs/pastor_australiano.avif",
+        "imageAlt": "Um ágil Pastor Australiano."
+    },
+    {
+        "name": "Australian Cattle Dog",
+        "uuid": "australian_cattle_dog",
+        "price": 8000,
+        "imageUrl": "images/dogs/australian_cattle_dog.webp",
+        "imageAlt": "Um animado Australian Cattle Dog."
+    },
+    {
+        "name": "Basset Hound",
+        "uuid": "basset_hound",
+        "price": 7000,
+        "imageUrl": "images/dogs/basset_hound.webp",
+        "imageAlt": "Um adorável Basset Hound."
+    },
+    {
+        "name": "Beagle",
+        "uuid": "beagle",
+        "price": 5000,
+        "imageUrl": "images/dogs/beagle.png",
+        "imageAlt": "Um brincalhão Beagle."
+    },
+    {
+        "name": "Bichon Frisé",
+        "uuid": "bichon_frise",
+        "price": 6000,
+        "imageUrl": "images/dogs/bichon_frise.webp",
+        "imageAlt": "Um alegre Bichon Frisé."
+    },
+    {
+        "name": "Bloodhound",
+        "uuid": "bloodhound",
+        "price": 10000,
+        "imageUrl": "images/dogs/bloodhound.avif",
+        "imageAlt": "Um curioso Bloodhound."
+    },
+    {
+        "name": "Border Collie",
+        "uuid": "border_collie",
+        "price": 7000,
+        "imageUrl": "images/dogs/border_collie.webp",
+        "imageAlt": "Um inteligente Border Collie."
+    },
+    {
+        "name": "Boxer",
+        "uuid": "boxer",
+        "price": 8000,
+        "imageUrl": "images/dogs/boxer.jpg",
+        "imageAlt": "Um brincalhão Boxer."
+    },
+    {
+        "name": "Braco Alemão",
+        "uuid": "braco_alemao",
+        "price": 9000,
+        "imageUrl": "images/dogs/braco_alemao.jpg",
+        "imageAlt": "Um enérgico Braco Alemão."
+    },
+    {
+        "name": "Bulldog Francês",
+        "uuid": "bulldog_frances",
+        "price": 20000,
+        "imageUrl": "images/dogs/bulldog_frances.jpg",
+        "imageAlt": "Um charmoso Bulldog Francês."
+    },
+    {
+        "name": "Bulldog Inglês",
+        "uuid": "bulldog_ingles",
+        "price": 18000,
+        "imageUrl": "images/dogs/bulldog_ingles.jpg",
+        "imageAlt": "Um adorável Bulldog Inglês."
+    },
+    {
+        "name": "Bull Terrier",
+        "uuid": "bull_terrier",
+        "price": 60000,
+        "imageUrl": "images/dogs/bull_terrier.jpg",
+        "imageAlt": "Um divertido Bull Terrier."
+    },
+    
+    {
+        "name": "Fila Brasileiro",
+        "uuid": "fila_brasileiro",
+        "price": 15000,
+        "imageUrl": "images/dogs/fila_brasileiro.jpg",
+        "imageAlt": "Um imponente Cão de Fila Brasileiro."
+    },
+    {
+        "name": "Fox Paulistinha",
+        "uuid": "fox_paulistinha",
+        "price": 7000,
+        "imageUrl": "images/dogs/fox_paulistinha.jpg",
+        "imageAlt": "Um ágil Fox Paulistinha."
+    },
+    {
+        "name": "Chihuahua",
+        "uuid": "chihuahua",
+        "price": 6000,
+        "imageUrl": "images/dogs/chihuahua.jpg",
+        "imageAlt": "Um pequeno Chihuahua."
+    },
+    {
+        "name": "Cocker Spaniel Americano",
+        "uuid": "cocker_spaniel_americano",
+        "price": 7000,
+        "imageUrl": "images/dogs/cocker_spaniel_americano.webp",
+        "imageAlt": "Um gracioso Cocker Spaniel Americano."
+    },
+    {
+        "name": "Cocker Spaniel Inglês",
+        "uuid": "cocker_spaniel_ingles",
+        "price": 8000,
+        "imageUrl": "images/dogs/cocker_spaniel_ingles.webp",
+        "imageAlt": "Um elegante Cocker Spaniel Inglês."
+    },
+    {
+        "name": "Dálmata",
+        "uuid": "dalmata",
+        "price": 11000,
+        "imageUrl": "images/dogs/dalmata.jpg",
+        "imageAlt": "Um elegante Dálmata."
+    },
+    {
+        "name": "Dobermann",
+        "uuid": "dobermann",
+        "price": 16000,
+        "imageUrl": "images/dogs/dobermann.jpg",
+        "imageAlt": "Um poderoso Dobermann."
+    },
+    {
+        "name": "Dogue Alemão",
+        "uuid": "dogue_alemao",
+        "price": 18000,
+        "imageUrl": "images/dogs/dogue_alemao.avif",
+        "imageAlt": "Um majestoso Dogue Alemão."
+    },
+    {
+        "name": "Papillon",
+        "uuid": "papillon",
+        "price": 7000,
+        "imageUrl": "/images/dogs/papillon.webp",
+        "imageAlt": "Um gracioso Papillon."
+    },
+    {
+        "name": "Pastor de Shetland",
+        "uuid": "pastor_de_shetland",
+        "price": 9000,
+        "imageUrl": "/images/dogs/pastor_de_shetland.webp",
+        "imageAlt": "Um inteligente Pastor de Shetland."
+    },
+    {
+        "name": "Pastor Alemão",
+        "uuid": "pastor_alemao",
+        "price": 13000,
+        "imageUrl": "/images/dogs/pastor_alemao.png",
+        "imageAlt": "Um leal Pastor Alemão."
+    },
+    {
+        "name": "Pastor Belga Malinois",
+        "uuid": "pastor_belga_malinois",
+        "price": 12000,
+        "imageUrl": "/images/dogs/pastor_belga_malinois.jpg",
+        "imageAlt": "Um corajoso Pastor Belga Malinois."
+    },
+    {
+        "name": "Pointer Inglês",
+        "uuid": "pointer_ingles",
+        "price": 11000,
+        "imageUrl": "/images/dogs/pointer_ingles.webp",
+        "imageAlt": "Um atento Pointer Inglês."
+    },
+    {
+        "name": "Poodle",
+        "uuid": "poodle",
+        "price": 6000,
+        "imageUrl": "/images/dogs/poodle.png",
+        "imageAlt": "Um adorável Poodle Toy."
+    },
+    {
+        "name": "Setter Irlandês",
+        "uuid": "setter_irlandes",
+        "price": 10000,
+        "imageUrl": "/images/dogs/setter_irlandes.avif",
+        "imageAlt": "Um elegante Setter Irlandês."
+    },
+    {
+        "name": "Shiba Inu",
+        "uuid": "shiba_inu",
+        "price": 10500,
+        "imageUrl": "/images/dogs/shiba_inu.jpg",
+        "imageAlt": "Um elegante Setter Irlandês."
+    },
+    {
+        "name": "Shar Pei",
+        "uuid": "shar_pei",
+        "price": 9000,
+        "imageUrl": "/images/dogs/shar_pei.jpg",
+        "imageAlt": "Um distinto Shar Pei."
+    },
+    {
+        "name": "Schnauzer",
+        "uuid": "schnauzer",
+        "price": 12000,
+        "imageUrl": "/images/dogs/schnauzer.jpg",
+        "imageAlt": "Um elegante Schnauzer Miniatura."
+    },
+    {
+        "name": "Springer Spaniel Inglês",
+        "uuid": "springer_spaniel_ingles",
+        "price": 10000,
+        "imageUrl": "/images/dogs/springer_spaniel_ingles.jpg",
+        "imageAlt": "Um alegre Springer Spaniel Inglês."
+    },
+    {
+        "name": "Weimaraner",
+        "uuid": "weimaraner",
+        "price": 13000,
+        "imageUrl": "/images/dogs/weimaraner.jpg",
+        "imageAlt": "Um gracioso Weimaraner."
+    },
+    {
+        "PARAR": "AQUI"
+    },
+    {
+        "name": "Vizsla Húngaro",
+        "uuid": "vizsla_hungaro",
+        "price": 1100,
+        "imageUrl": "",
+        "imageAlt": "Um elegante Vizsla Húngaro."
+    },
+    {
+        "name": "Tosa Inu",
+        "uuid": "tosa_inu",
+        "price": 1800,
+        "imageUrl": "",
+        "imageAlt": "Um imponente Tosa Inu."
+    },
+    {
+        "name": "Mastiff Inglês",
+        "uuid": "mastiff_ingles",
+        "price": 2000,
+        "imageUrl": "/images/dogs/maltes.webp",
+        "imageAlt": "Um nobre Mastiff Inglês."
+    },
+    {
+        "name": "Kuvasz",
+        "uuid": "kuvasz",
+        "price": 1300,
+        "imageUrl": "",
+        "imageAlt": "Um protetor Kuvasz."
+    },
+    {
+        "name": "Komondor",
+        "uuid": "komondor",
+        "price": 1100,
+        "imageUrl": "",
+        "imageAlt": "Um distinto Komondor."
+    },
+    {
+        "name": "Collie",
+        "uuid": "collie",
+        "price": 1000,
+        "imageUrl": "",
+        "imageAlt": "Um fiel Collie."
+    },
+    {
+        "name": "Cão de Montanha dos Pirenéus",
+        "uuid": "cao_de_montanha_dos_pireneus",
+        "price": 1400,
+        "imageUrl": "",
+        "imageAlt": "Um majestoso Cão de Montanha dos Pirenéus."
+    },
+    {
+        "name": "Cão da Serra da Estrela",
+        "uuid": "cao_da_serra_da_estrela",
+        "price": 1300,
+        "imageUrl": "images/dogs/bull_terrier.jpg",
+        "imageAlt": "Um robusto Cão da Serra da Estrela."
+    }
+]

@@ -1,0 +1,626 @@
+[
+    {
+        "uuid": "cerberus",
+        "name": "Cerberus",
+        "image": "/images/dogs/cerberus.jpg",
+        "href": "#",
+        "price": 1,
+        "images": [
+            "https://cdnb.artstation.com/p/assets/images/images/000/059/409/large/cerber.jpg?1399572051",
+            "https://images.hive.blog/0x0/https://files.peakd.com/file/peakd-hive/elevator09/Eos1igaJKipjzi1Hiki7bnyauF7hggQuJ6mXENiPVyAUmRDzNB92UVLh4vwk2pxPCHz.JPG",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkA168RPPr5gsCKBiWrRC-vSiithr8ktLIBw&s",
+            "https://m.media-amazon.com/images/I/61tlpqbOGqS._AC_UF894,1000_QL80_.jpg"
+        ],
+        "breadcrumbs": [
+            {
+                "id": 1,
+                "name": "Cachorros",
+                "href": "#"
+            },
+            {
+                "id": 2,
+                "name": "Cerberus",
+                "href": "#"
+            }
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4,
+            "totalCount": 117
+        },
+        "colors": [
+            {
+                "name": "Preto",
+                "class": "bg-black",
+                "selectedClass": "bg-zinc-100",
+                "query": "black"
+            }
+        ],
+        "sizes": [
+            {
+                "name": "Único",
+                "inStock": true,
+                "query": "default"
+            }
+        ],
+        "description": "Protegendo"
+    },
+    {
+        "uuid": "cavalier_king_charles_spaniel",
+        "name": "Cavalier King Charles Spaniel",
+        "image": "images/dogs/cavalier_king_charles_spaniel.jpg",
+        "href": "#",
+        "price": 24800,
+        "images": [
+            "https://i.pinimg.com/736x/07/b5/95/07b5953c2c33d9318f2b8b12315d39fa.jpg",
+            "https://blog-static.petlove.com.br/wp-content/uploads/2018/08/cavalier-king-charles-spaniel-filhote.jpg",
+            "https://love.doghero.com.br/wp-content/uploads/2017/02/Galeria-4-Cavalier.jpg",
+            "https://clubedocavalier.com.br/wp-content/uploads/2019/07/IMG-8489.jpg"
+        ],
+        "breadcrumbs": [
+            {
+                "id": 1,
+                "name": "Cachorros",
+                "href": "#"
+            },
+            {
+                "id": 2,
+                "name": "Cavalier King Charles Spaniel",
+                "href": "#"
+            }
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4.5,
+            "totalCount": 89
+        },
+        "colors": [
+            {
+                "name": "Blenheim",
+                "class": "bg-yellow-700",
+                "selectedClass": "bg-zinc-100",
+                "query": "blenheim"
+            },
+            {
+                "name": "Pretro",
+                "class": "bg-black",
+                "selectedClass": "bg-zinc-100",
+                "query": "black"
+            }
+        ],
+        "sizes": [
+            {
+                "name": "Único",
+                "inStock": true,
+                "query": "default"
+            }
+        ],
+        "description": "Os Cavalier King Charles Spaniels são conhecidos por seu temperamento dócil e afetuoso. Eles são excelentes companheiros, adoram estar perto das pessoas e se dão bem com crianças e outros animais de estimação. Sua pelagem sedosa e olhos grandes e expressivos fazem deles uma raça extremamente adorável."
+    },
+    {
+        "uuid": "dachshund",
+        "name": "Dachshund",
+        "image": "images/dogs/dachshund.jpg",
+        "href": "#",
+        "price": 5000,
+        "images": [
+            "https://www.poochandmutt.co.uk/cdn/shop/articles/download_11.jpg?v=1627313486",
+            "https://www.raisedrightpets.com/wp-content/uploads/2023/04/kojirou-sasaki-DLdDrb2d4F4-unsplash-1-scaled.jpg",
+            "https://cdn.sanity.io/images/4ij0poqn/production/70a269d4f5f3fde35ce383ed5f3e2327aba45b58-1200x700.jpg",
+            "https://www.patasdacasa.com.br/sites/patasdacasa/files/2023-07/cachorro-salsicha1.jpg"
+        ],
+        "breadcrumbs": [
+            {
+                "id": 1,
+                "name": "Cachorros",
+                "href": "#"
+            },
+            {
+                "id": 2,
+                "name": "Dachshund",
+                "href": "#"
+            }
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4.7,
+            "totalCount": 132
+        },
+        "colors": [
+            {
+                "name": "Creme",
+                "class": "bg-orange-100",
+                "selectedClass": "bg-zinc-100",
+                "query": "cream"
+            },
+            {
+                "name": "Preto",
+                "class": "bg-black",
+                "selectedClass": "bg-zinc-100",
+                "query": "black"
+            },
+            {
+                "name": "Marrom",
+                "class": "bg-yellow-700",
+                "selectedClass": "bg-zinc-100",
+                "query": "brown"
+            }
+        ],
+        "sizes": [
+            {
+                "name": "Miniatura",
+                "inStock": false,
+                "query": "miniature"
+            }
+        ],
+        "description": "Os Dachshunds, também conhecidos como cães salsicha, são conhecidos por sua personalidade corajosa e amigável. Eles são ótimos companheiros e se adaptam bem a diferentes ambientes, sejam eles urbanos ou rurais. Sua aparência única e carisma tornam essa raça muito popular.\nTemos disponíveis as variantes Pelo Longo ou Pelo curto (25% de cash-back)."
+    },
+    {
+        "uuid": "golden_retriever",
+        "name": "Golden Retriever",
+        "href": "#",
+        "image": "/images/dogs/golden_retriever.heic",
+        "price": 3900,
+        "images": [
+            "/images/dogs/golden_retriever/gold1_0.heic",
+            "/images/dogs/golden_retriever/gold1_1.heic",
+            "/images/dogs/golden_retriever/gold1_2.heic",
+            "/images/dogs/golden_retriever/gold1_3.heic"
+        ],
+        "breadcrumbs": [
+            {
+                "id": 1,
+                "name": "Cachorros",
+                "href": "#"
+            },
+            {
+                "id": 2,
+                "name": "Golden Retriever",
+                "href": "#"
+            }
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4,
+            "totalCount": 117
+        },
+        "colors": [
+            {
+                "name": "Dourado Claro",
+                "class": "bg-orange-300",
+                "selectedClass": "bg-zinc-100",
+                "query": "gold1"
+            },
+            {
+                "name": "Creme",
+                "class": "bg-orange-100",
+                "selectedClass": "bg-zinc-100",
+                "query": "cream"
+            }
+        ],
+        "sizes": [
+            {
+                "name": "Único",
+                "inStock": false,
+                "query": "default"
+            }
+        ],
+        "description": "Nada melhor do que um Filhote de Golden Retriever para alegrar os seus dias. Essa raça é conhecida por seu carisma imenso e a quantidade de energia para brincadeiras. Além de ser uma ótima opção para quem tem crianças em casa."
+    },
+    {
+        "uuid": "pug",
+        "name": "Pug",
+        "href": "#",
+        "price": 2800,
+        "images": [
+            "/images/dogs/pug.jpg",
+            "/images/dogs/pug.jpg",
+            "/images/dogs/pug.jpg",
+            "/images/dogs/pug.jpg"
+        ],
+        "breadcrumbs": [
+            {
+                "id": 1,
+                "name": "Cachorros",
+                "href": "#"
+            },
+            {
+                "id": 2,
+                "name": "Pug",
+                "href": "#"
+            }
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4,
+            "totalCount": 117
+        },
+        "colors": [
+            {
+                "name": "Abricó",
+                "class": "bg-yellow-300",
+                "selectedClass": "bg-zinc-100",
+                "query": "apricot"
+            },
+            {
+                "name": "Fulvo",
+                "class": "bg-yellow-200",
+                "selectedClass": "",
+                "query": "fawn"
+            },
+            {
+                "name": "Preto",
+                "class": "bg-black",
+                "selectedClass": "bg-zinc-100",
+                "query": "black"
+            },
+            {
+                "name": "Prata",
+                "class": "bg-gray-400",
+                "selectedClass": "bg-zinc-100",
+                "query": "silver"
+            }
+        ],
+        "sizes": [
+            {
+                "name": "Único",
+                "inStock": false,
+                "query": "default"
+            }
+        ],
+        "description": "Os Pugs são adoráveis e encantadores, com uma personalidade alegre e uma expressão facial única. Essa raça é conhecida por seu comportamento carinhoso e adaptável, sendo uma ótima companhia para a família."
+    },
+    {
+        "uuid": "akita_inu",
+        "name": "Akita Inu",
+        "href": "#",
+        "price": 2800,
+        "images": [
+            "/images/dogs/akita.webp",
+            "/images/dogs/akita.webp",
+            "/images/dogs/akita.webp",
+            "/images/dogs/akita.webp"
+        ],
+        "breadcrumbs": [
+            {
+                "id": 1,
+                "name": "Cachorros",
+                "href": "#"
+            },
+            {
+                "id": 2,
+                "name": "Akita Inu",
+                "href": "#"
+            }
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4,
+            "totalCount": 117
+        },
+        "colors": [
+            {
+                "name": "Vermelho",
+                "class": "bg-red-600",
+                "selectedClass": "bg-zinc-100",
+                "query": "red"
+            },
+            {
+                "name": "Branco",
+                "class": "bg-white",
+                "selectedClass": "bg-zinc-100",
+                "query": "white"
+            },
+            {
+                "name": "Sésamo",
+                "class": "bg-yellow-500",
+                "selectedClass": "bg-zinc-100",
+                "query": "sesame"
+            },
+            {
+                "name": "Tigrado",
+                "class": "bg-gray-700",
+                "selectedClass": "bg-zinc-100",
+                "query": "brindle"
+            }
+        ],
+        "sizes": [
+            {
+                "name": "Padrão",
+                "inStock": false,
+                "query": "default"
+            }
+        ],
+        "description": "Os Akita Inus são cães majestosos e leais, conhecidos por sua presença imponente e personalidade calma. Eles são ótimos companheiros para famílias e são conhecidos por sua coragem e proteção."
+    },
+    {
+        "uuid": "maltes",
+        "name": "Maltês",
+        "href": "#",
+        "image": "/images/dogs/maltes.webp",
+        "price": 3400,
+        "images": [
+            "https://www.petz.com.br/blog//wp-content/uploads/2023/04/como-cuidar-de-um-cachorro-maltes-2.jpg",
+            "https://queromeufilhote.com.br/wp-content/uploads/2024/05/WhatsApp-Image-2020-09-22-at-17.08.43.jpeg",
+            "https://www.adoropets.com.br/wp-content/uploads/2018/03/maltes.jpg",
+            "https://filhotes.canillc.com.br/imagens/filhote-maltes-micro-a-venda.jpg"
+        ],
+        "breadcrumbs": [
+            {
+                "id": 1,
+                "name": "Cachorros",
+                "href": "#"
+            },
+            {
+                "id": 2,
+                "name": "Maltês",
+                "href": "#"
+            }
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4.5,
+            "totalCount": 150
+        },
+        "colors": [
+            {
+                "name": "Branco",
+                "class": "bg-white",
+                "selectedClass": "bg-zinc-100",
+                "query": "white"
+            }
+        ],
+        "sizes": [
+            {
+                "name": "Padrão",
+                "inStock": false,
+                "query": "default"
+            }
+        ],
+        "description": "Os Malteses são conhecidos por seu pelo branco e sedoso e sua natureza carinhosa. Eles são ideais para quem procura um cão de companhia leal e afetuoso. Esta raça é especialmente adequada para quem vive em apartamentos devido ao seu tamanho compacto."
+    },
+    {
+        "uuid": "rottweiler",
+        "name": "Rottweiler",
+        "image": "/images/dogs/rottweiler.jpg",
+        "href": "#",
+        "price": 2150,
+        "images": [
+            "https://i.pinimg.com/474x/0d/86/a4/0d86a465b528fe32f2663766f4a92457.jpg",
+            "https://www.patasdacasa.com.br/sites/patasdacasa/files/rottweiler-filhote7.jpg",
+            "https://www.oliberal.com/image/contentid/policy:1.606263:1666994012/Rottweiler-filhote-pixabay.png?f=3x2&q=1.0&w=700&$p$f$q$w=5494a74",
+            "/images/dogs/rottweiler.jpg"
+        ],
+        "breadcrumbs": [
+            {
+                "id": 1,
+                "name": "Cachorros",
+                "href": "#"
+            },
+            {
+                "id": 2,
+                "name": "Rottweiler",
+                "href": "#"
+            }
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4.7,
+            "totalCount": 200
+        },
+        "colors": [
+            {
+                "name": "Preto com Marrom",
+                "class": "bg-black",
+                "selectedClass": "bg-zinc-100",
+                "query": "black_and_tan"
+            }
+        ],
+        "sizes": [
+            {
+                "name": "Padrão",
+                "inStock": false,
+                "query": "default"
+            }
+        ],
+        "description": "Os Rottweilers são cães robustos e leais, conhecidos por sua força e inteligência. Eles são excelentes cães de guarda e companheiros leais, sendo ótimos para famílias que buscam um cão protetor e carinhoso."
+    },
+    {
+        "uuid": "chow_chow",
+        "name": "Chow Chow",
+        "image": "/images/dogs/chow_chow.jpg",
+        "href": "#",
+        "price": 4200,
+        "images": [
+            "https://i.pinimg.com/736x/49/08/fd/4908fd8300b490f8e2db1f6d1dd93ff4.jpg",
+            "https://13630656.rocketcdn.me/wp-content/uploads/2020/02/Picture4-1.jpg.webp",
+            "https://www.oliberal.com/image/contentid/policy:1.577096:1660977200/chow-chow-preto.png?f=3x2&q=1.0&w=700&$p$f$q$w=c6e3879",
+            "https://www.portaldodog.com.br/wp-content/uploads/2021/06/dog-chow-chow-breed-bright-red-color-sits-fresh-grass_166347-94.jpg"
+        ],
+        "breadcrumbs": [
+            {
+                "id": 1,
+                "name": "Cachorros",
+                "href": "#"
+            },
+            {
+                "id": 2,
+                "name": "Chow Chow",
+                "href": "#"
+            }
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4.7,
+            "totalCount": 200
+        },
+        "colors": [
+            {
+                "name": "Branco",
+                "class": "bg-white",
+                "selectedClass": "bg-zinc-100",
+                "query": "white",
+                "images": [
+                    "https://i.pinimg.com/736x/49/08/fd/4908fd8300b490f8e2db1f6d1dd93ff4.jpg",
+                    "https://13630656.rocketcdn.me/wp-content/uploads/2020/02/Picture4-1.jpg.webp",
+                    "https://www.oliberal.com/image/contentid/policy:1.577096:1660977200/chow-chow-preto.png?f=3x2&q=1.0&w=700&$p$f$q$w=c6e3879",
+                    "https://www.portaldodog.com.br/wp-content/uploads/2021/06/dog-chow-chow-breed-bright-red-color-sits-fresh-grass_166347-94.jpg"
+                ]
+            },
+            {
+                "name": "Creme",
+                "class": "bg-orange-300",
+                "selectedClass": "bg-zinc-100",
+                "query": "cream",
+                "images": [
+                    "https://i.pinimg.com/736x/49/08/fd/4908fd8300b490f8e2db1f6d1dd93ff4.jpg",
+                    "https://13630656.rocketcdn.me/wp-content/uploads/2020/02/Picture4-1.jpg.webp",
+                    "https://www.oliberal.com/image/contentid/policy:1.577096:1660977200/chow-chow-preto.png?f=3x2&q=1.0&w=700&$p$f$q$w=c6e3879",
+                    "https://www.portaldodog.com.br/wp-content/uploads/2021/06/dog-chow-chow-breed-bright-red-color-sits-fresh-grass_166347-94.jpg"
+                ]
+            },
+            {
+                "name": "Caramelo",
+                "class": "bg-yellow-700",
+                "selectedClass": "bg-zinc-100",
+                "query": "caramel"
+            },
+            {
+                "name": "Preto",
+                "class": "bg-black",
+                "selectedClass": "bg-zinc-100",
+                "query": "black"
+            }
+        ],
+        "sizes": [
+            {
+                "name": "Padrão",
+                "inStock": false,
+                "query": "default"
+            }
+        ],
+        "description": "Os filhotes de Chow Chow são pequenos fofinhos irresistíveis com suas pelagens densas e línguas azul-escuras. Parecendo pequenos leões, esses filhotes são tão adoráveis quanto dignos. Eles são conhecidos por sua lealdade e natureza protetora, mas também podem ser um pouco reservados com estranhos. Com uma socialização e treinamento amorosos desde cedo, esses peludinhos se tornam companheiros maravilhosos e afetuosos, prontos para encher sua casa de carinho e momentos inesquecíveis."
+    },
+    {
+        "uuid": "shihtzu",
+        "name": "Shih-Tzu",
+        "image": "/images/dogs/shih_tzu.jpg",
+        "href": "#",
+        "price": 3100,
+        "images": [
+            "https://images.unsplash.com/photo-1606409696374-ad132c6388ae?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://i.ytimg.com/vi/OdJt61KsqRA/sddefault.jpg",
+            "/images/dogs/shih_tzu.jpg",
+            "https://st3.depositphotos.com/4031919/17673/i/450/depositphotos_176735630-stock-photo-portrait-cute-little-shih-tzu.jpg"
+        ],
+        "breadcrumbs": [
+            {
+                "id": 1,
+                "name": "Cachorros",
+                "href": "#"
+            },
+            {
+                "id": 2,
+                "name": "Shih-Tzu",
+                "href": "#"
+            }
+        ],
+        "reviews": {
+            "href": "#",
+            "average": 4.6,
+            "totalCount": 180
+        },
+        "colors": [
+            {
+                "name": "Branco",
+                "class": "bg-white",
+                "selectedClass": "bg-zinc-100",
+                "query": "white"
+            },
+            {
+                "name": "Preto",
+                "class": "bg-black",
+                "selectedClass": "bg-zinc-100",
+                "query": "black"
+            },
+            {
+                "name": "Dourado",
+                "class": "bg-amber-600",
+                "selectedClass": "bg-zinc-100",
+                "query": "gold"
+            },
+            {
+                "name": "Cinza",
+                "class": "bg-gray-400",
+                "selectedClass": "bg-zinc-100",
+                "query": "gray"
+            }
+        ],
+        "sizes": [
+            {
+                "name": "Padrão",
+                "inStock": false,
+                "query": "default"
+            }
+        ],
+        "description": "Os Shih Tzus são cães pequenos e encantadores, conhecidos por seu pelo longo e luxuoso e sua natureza amigável. Eles são ótimos companheiros e são ideais para famílias que buscam um cão de companhia afetuoso e brincalhão."
+    },
+    [
+        {
+            "uuid": "cane_corso",
+            "name": "Cane Corso",
+            "href": "#",
+            "breadcrumbs": [
+                {
+                    "id": 1,
+                    "name": "Cachorros",
+                    "href": "#"
+                },
+                {
+                    "id": 2,
+                    "name": "Cane Corso",
+                    "href": "#"
+                }
+            ],
+            "reviews": {
+                "href": "#",
+                "average": 4.8,
+                "totalCount": 150
+            },
+            "colors": [
+                {
+                    "name": "Preto",
+                    "class": "bg-black",
+                    "selectedClass": "bg-zinc-100",
+                    "query": "black"
+                },
+                {
+                    "name": "Cinza",
+                    "class": "bg-gray-500",
+                    "selectedClass": "bg-zinc-100",
+                    "query": "gray"
+                },
+                {
+                    "name": "Fulvo",
+                    "class": "bg-yellow-600",
+                    "selectedClass": "bg-zinc-100",
+                    "query": "fawn"
+                },
+                {
+                    "name": "Tigrado",
+                    "class": "bg-gradient-to-r from-black to-gray-600",
+                    "selectedClass": "bg-zinc-100",
+                    "query": "brindle"
+                }
+            ],
+            "sizes": [
+                {
+                    "name": "Único",
+                    "inStock": true,
+                    "query": "default"
+                }
+            ],
+            "description": "Os Cane Corsos são conhecidos por sua força e lealdade. Eles são excelentes cães de guarda e têm uma natureza protetora. Com treinamento adequado, eles são companheiros gentis e afetuosos. Sua aparência imponente e musculosa é equilibrada por um comportamento calmo e confiante."
+        }
+    ]
+]

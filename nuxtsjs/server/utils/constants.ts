@@ -1,0 +1,1 @@
+export const femalePriceMultiplier = 1.0;
