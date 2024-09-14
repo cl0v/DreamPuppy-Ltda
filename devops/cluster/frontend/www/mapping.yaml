@@ -1,0 +1,11 @@
+apiVersion: getambassador.io/v3alpha1
+kind: Mapping
+metadata:
+  name: www-mapping-1714604374711
+  namespace: frontend
+spec:
+  # ambassador_id:
+  # - default
+  hostname: www.dreampuppy.com.br
+  prefix: /
+  service: www.frontend:80
