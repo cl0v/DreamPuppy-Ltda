@@ -93,6 +93,8 @@ Não mencionei o uso de outras ferramentas que utilizei para agilizar algumas et
 
 Também fui responsável pelo desenvolvimento de todo o criativo, como postagens, descrições, escolhas de conteúdo para crescer a página e afins.
 
+O instagram do projeto pode ser encontrado em @dreampuppy.com.br
+
 
 ### Agradecimentos
 Agradeço ao Matheus por ter entrado como sócio no dia que o App foi publicado na apple, este me ajudou a entrar em contato com uma grande quantidade de clientes e me motivou a continuar persistindo no projeto.
@@ -103,3 +105,23 @@ Agradeço a minha mãe por ter incentivado e acreditado.
 
 Agradeço a Thalles, que entrou como sócio nas ultimas semanas com o objetivo de gerir a empresa, já que este teve muita experiência no setor de StartUps.
 
+
+
+## Screenshots
+<h3>Primeira versão do App</h3>
+<p float="left">
+<img src="screenshots/old-design-app.jpeg" width="150" alt="Primeira versão do design do app">
+<img src="screenshots/feature-show-02.jpeg" width="150" alt="Primeira versão do design do app">
+<img src="screenshots/launching-first-app.jpeg" width="150" alt="Primeira versão do design do app">
+</p>
+<h3>Segunda versão do App</h3>
+<p float="left">
+<img src="screenshots/presenca-na-loja.jpeg" width="150" alt="Segunda versão do design do app">
+<img src="screenshots/app-details.jpeg" width="150" alt="Segunda versão do design do app">
+<img src="screenshots/panfleto.jpeg" width="150" alt="Segunda versão do design do app">
+</p>
+<h3>Site</h3>
+<p float="left">
+<img src="screenshots/nuxt-details-pg.jpeg" width="300" alt="Primeira versão do design do app">
+<img src="screenshots/nuxtjs-index.jpeg" width="300" alt="Primeira versão do design do app">
+</p>
